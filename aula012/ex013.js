@@ -34,7 +34,6 @@ switch(diaSem) {
         console.log('Sexta')
             break
     default:
-        console.log('[erro] Dia inválido!!')
-            break
+        console.log('[ERRO] Dia inválido!')
             
 }
