@@ -35,5 +35,6 @@ switch(diaSem) {
             break
     default:
         console.log('[ERRO] Dia inválido!')
+        break
             
 }
