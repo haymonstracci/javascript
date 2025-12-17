@@ -3,7 +3,7 @@ function contar() {
     let fim = document.getElementById('txtf')
     let passo = document.getElementById('txtp')
     let res = document.getElementById('res')
-
+                                                                                       
     if (ini.value.length == 0 || fim.value.length == 0 || passo.value.length == 0) {
         res.innerHTML = `Impossível contar!`
         alert('[ERRO] Faltam dados!')
