@@ -1,4 +1,4 @@
-/*let num = [5, 8, 2, 9, 3]
+let num = [5, 8, 2, 9, 3]
 num.push(1)
 num.sort()
 console.log(num)
@@ -10,16 +10,16 @@ if (pos == -1) {
 } else {
     console.log(`O valor está na posição ${pos}`)
 }
-*/
 
 
-/*let numeros = [5, 8, 2, 9, 3]
+
+let numeros = [5, 8, 2, 9, 3]
 for (let i = 0; i < numeros.length; i++) {
-    if (numeros[i] % 2 === 0) {
+    if (numeros[i] % 2 === 1) {
         console.log(numeros[i])
     }
 }
-*/
+
 
 
 
